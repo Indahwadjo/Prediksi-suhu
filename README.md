@@ -1,2 +1,2 @@
 # Prediksi-suhu
-Prediksi suhu untuk rekomendasi membawa payung dengan menggunakan struktur data Tree
+Prediksi suhu untuk rekomendasi membawa payung dengan menggunakan struktur data Tree, project ini merupakan project ujian akhir semester kami di mana kami menggunakan tree untuk prediksi apakah harus membawa payung atau tidak saat keluar dengan menggunakan paper untuk tresholdnya, untuk mengetahui prediksi dan output yang keluar kita dapat menginput nilai suhu, kecepaan angin dan kelembaban, sehinggan ouput yang akan keluar akan menunjukkan prediksi cuacanya dan saran apakah harus membawa payung atau tidak.
